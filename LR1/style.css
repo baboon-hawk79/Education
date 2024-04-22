@@ -2,7 +2,7 @@ body {
   margin-top: 7%;
   color: hsl(0, 0%, 0%);
   line-height: 1.5;
-  background-image: url("../scss/choc.jpg");
+  background-image: url("choc.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
