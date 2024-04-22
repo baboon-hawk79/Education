@@ -1,2 +1,3 @@
 # Education
-my education repository / FKEP
+Мій навчальний репозиторій / ФКЕП
+Студент ПІ-2103
